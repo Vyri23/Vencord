@@ -85,7 +85,7 @@ and then to build the changes:
 ```shell
 pnpm build
 ```
-
+pnpm uninject
 Then just refresh your client
 
 ## Uninstalling Vencord
